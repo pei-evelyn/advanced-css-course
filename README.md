@@ -1,1 +1,3 @@
-Advanced CSS and Sass coursework
+# Advanced CSS and Sass Course
+
+Projects and coursework from 'Advanced CSS and Sass' course
